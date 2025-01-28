@@ -3,8 +3,7 @@
   "rules": [
     {
       "domain": [
-        "api.vrchat.cloud",
-        "pipeline.vrchat.cloud"   
+        "file-variants.vrchat.cloud"  
       ]
     }
   ]
